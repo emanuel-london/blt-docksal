@@ -107,7 +107,7 @@ class DocksalCommands extends BltTasks {
         }
 
         // Re-init settings after we removed old settings.
-        $this->invokeCommand('tests:behat:init:config');
+        $this->invokeCommand('recipes:behat:init');
       }
     }
   }

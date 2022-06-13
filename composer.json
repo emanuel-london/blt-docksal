@@ -1,5 +1,5 @@
 {
-  "name": "docksal/blt-docksal",
+  "name": "bounteous/blt-docksal",
     "type": "library",
     "description": "Docksal integration for Acquia BLT",
     "keywords": ["acquia", "blt","docksal"],
